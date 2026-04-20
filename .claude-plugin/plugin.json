@@ -1,0 +1,12 @@
+{
+  "name": "ytb-content-creator",
+  "description": "Claude skills for generating tech, news, and poetry short videos with TTS and subtitles.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClickAround",
+    "email": "clickaround8@gmail.com"
+  },
+  "homepage": "http://168.107.56.106/clickaround/",
+  "license": "MIT",
+  "keywords": ["claude-code", "mcp", "automation"]
+}
