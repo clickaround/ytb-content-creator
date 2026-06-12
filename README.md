@@ -37,6 +37,9 @@ MIT — clickaround8@gmail.com
 - [2026-06-03] New: http://168.107.56.106/clickaround/blog/2026-06-03-ytb-content-creator.html
 
 
+- [2026-06-04] New: http://168.107.56.106/clickaround/blog/2026-06-04-ytb-content-creator.html
+
+
 ## Latest posts
 
-- [2026-06-04] New: http://168.107.56.106/clickaround/blog/2026-06-04-ytb-content-creator.html
+- [2026-06-12] New: http://168.107.56.106/clickaround/blog/2026-06-12-ytb-content-creator.html
